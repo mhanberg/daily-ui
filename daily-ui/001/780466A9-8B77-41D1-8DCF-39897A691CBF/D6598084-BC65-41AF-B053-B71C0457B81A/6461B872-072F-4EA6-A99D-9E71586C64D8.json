@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6461B872-072F-4EA6-A99D-9E71586C64D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 117,
+    "width": 385,
+    "x": 493,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input w/ label Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98451708-DA1B-4742-81F4-BBF693B30905",
+      "overrideName": "4007659D-B3ED-4C3F-9C3B-F1A7C17BFBFD_stringValue",
+      "value": "LAST NAME"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7B46465-C5C7-47C2-9C9B-7776F443108D",
+      "overrideName": "43D95027-48D9-4857-A08B-AD8091383F64_stringValue",
+      "value": "Jones"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5CB4945-0FD3-414E-9339-D274697EEEE7",
+  "verticalSpacing": 0
+}
