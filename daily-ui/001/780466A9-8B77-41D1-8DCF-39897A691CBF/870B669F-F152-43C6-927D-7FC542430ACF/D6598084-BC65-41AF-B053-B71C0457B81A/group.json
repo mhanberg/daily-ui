@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "380B4DE3-E4CC-45BC-8857-EBC4970F173C",
+  "do_objectID": "D6598084-BC65-41AF-B053-B71C0457B81A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 87,
-    "width": 732,
-    "x": 478,
-    "y": 918
+    "height": 405,
+    "width": 1082,
+    "x": 303,
+    "y": 442
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,18 +27,34 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "99348BB8-69D5-4B01-8D19-79FA97542022"
+      "class": "symbolInstance",
+      "id": "502BC7E9-ACC1-4A19-B9EC-717246E29316"
     },
     {
-      "class": "text",
-      "id": "F639DDF9-7463-496F-A49E-5AF536ECADD2"
+      "class": "symbolInstance",
+      "id": "57F74878-B093-472A-9604-9445D1D47F36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6461B872-072F-4EA6-A99D-9E71586C64D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F70565E-70D8-49F4-A855-266E1707EC6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A55A1043-D845-4779-BF6A-C6EBD664439C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6916CDF-5644-41B4-AA1B-7EEBE00A0D32"
     }
   ],
-  "name": "Button",
+  "name": "inputs",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
